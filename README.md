@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kingpanther13-ha-mcp-addon-test-badge.png)](https://mseep.ai/app/kingpanther13-ha-mcp-addon-test)
+
 <div align="center">
   <img src="docs/img/ha-mcp-logo.png" alt="Home Assistant MCP Server Logo" width="300"/>
 
